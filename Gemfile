@@ -63,7 +63,7 @@ group :test do
 end
 
 # User login
-gem "devise", "~> 4.9"
+gem "devise", "~> 5.0"
 gem "simple_form"
 
 # httparty for api requests
