@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gotta Track ’Em All — Personal Fork
 
 This is my personal fork of the **Gotta Track ’Em All** project, created to showcase my verified contributions for job applications. This fork highlights only the work I personally implemented in the original team repository.
@@ -56,3 +57,7 @@ All work listed below is based on commits I authored in the original repository.
 This fork exists solely to present my individual contributions.  
 It is not intended to represent the full team project.
 
+=======
+# gtea-ivan-showcase
+Showcase of my personal contributions to the Gotta Track ’Em All team project (authentication flow, homepage routing, UI components, navigation, and layout improvements)
+>>>>>>> origin/main
