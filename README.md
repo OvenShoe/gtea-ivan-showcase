@@ -6,7 +6,7 @@ This is my personal fork of the **Gotta Track ’Em All** project, created to sh
 ## 🔍 View My Contributions
 You can view all commits authored by me using the GitHub commit filter:
 
-**https://github.com/OvenShoe/gotta_track_em_all/commits?author=OvenShoe**
+**github.com/OvenShoe/gtea-ivan-showcase/commits?author=OvenShoe**
 
 All work listed below is based on commits I authored in the original repository.
 
